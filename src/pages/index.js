@@ -4,15 +4,15 @@ import './style.css';
 import { Container, Segment } from "semantic-ui-react"
 let items = [
   {
-    src: 'http://global.canon/en/imaging/eosd/samples/eosm6/downloads/02.jpg',
-    thumbnail: 'http://global.canon/en/imaging/eosd/samples/eosm6/downloads/02.jpg',
+    src: 'https://image.ibb.co/hNy40G/103003.jpg',
+    thumbnail: 'https://image.ibb.co/hNy40G/103003.jpg',
     w: 1200,
     h: 900,
     title: 'Image 1'
   },
   {
-    src: 'http://imgsv.imaging.nikon.com/lineup/lens/zoom/normalzoom/af-s_dx_18-300mmf_35-56g_ed_vr/img/sample/sample4_l.jpg',
-    thumbnail: 'http://imgsv.imaging.nikon.com/lineup/lens/zoom/normalzoom/af-s_dx_18-300mmf_35-56g_ed_vr/img/sample/sample4_l.jpg',
+    src: 'https://preview.ibb.co/i1KBfG/ac_lloyd.jpg',
+    thumbnail: 'https://preview.ibb.co/i1KBfG/ac_lloyd.jpg',
     w: 1200,
     h: 900,
     title: 'Image 2'
